@@ -9,5 +9,6 @@ public class demo1 {
         System.out.println("第二次测试");
         System.out.println("第三次测试");
         System.out.println("第四次测试");
+        System.out.println("demo1 测试");
     }
 }
